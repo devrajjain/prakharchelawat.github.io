@@ -1,23 +1,8 @@
-.logo{
-
-  background-color: black;
-  width:200px;
-  height:200px;
-  float:left;
-
-}
 .heading{
-
-
-  font-size:60px;
-  font-family: poppins;
-  background-color: #c5c5c5;
-  float:left;
-  width:1100px;
-  height:200px;
-  text-align:center;
-  padding-top:40px;
-
-
-
+	text-align: center;
+	background-color: #c5c5c5;
+	
+}
+.heading1{
+	padding-top: 30px;
 }
